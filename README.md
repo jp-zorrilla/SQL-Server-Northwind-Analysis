@@ -1,4 +1,4 @@
-# SQL-Server-Northwind-Analysis: Business Value Extraction
+# SQL Server Northwind Business Analysis: Business Value Extraction
 
 This repository presents a collection of **T-SQL queries** executed against the **Northwind Traders** sample database. The project is designed to showcase the ability to translate strategic business questions into structured, efficient SQL queries, providing direct, actionable insights for decision-makers.
 
